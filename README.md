@@ -13,7 +13,7 @@ Technical requirements:
 • Response body has been attached to the report (in case of API).
 • ReadMe file describing the project and how to use has been attached.
 • The project as a GitHub repo on this link:
-”https://github.com/asho30/Apar_Test”.
+https://github.com/asho30/Apar_Selenium_Framework
 
 # import project to eclipse as a Maven project and Run it from testng.xml.
 # Or copy the project folder to D:/ driver then run the test from CMD by the following lines:
